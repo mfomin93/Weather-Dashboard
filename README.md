@@ -40,9 +40,6 @@ so that I can plan a trip accordingly
   * Temperature
   * Humidity
 
-## Demo
-
-![weather dashboard](./img/server-side-demo.png)
 
 ## User Specifications
 
@@ -74,14 +71,6 @@ so that I can plan a trip accordingly
 
 - [x] Use Materialize CSS for UI
 
-## End Result
-
-![end result](./img/demo.gif)
-
-## Getting Started
-
-Go to https://saltamay.github.io/weather-dashboard/ and start using 😊
-
 
 ## Tech Stack
 
@@ -89,9 +78,6 @@ Go to https://saltamay.github.io/weather-dashboard/ and start using 😊
 2. jQuery
 3. Deployed on GitHub Pages
 
-## Licence
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
 
